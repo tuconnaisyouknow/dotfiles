@@ -5,12 +5,12 @@
 ## ⚠️ Warning  
 
 **Use at your own risk!**  
-These configurations modify system settings and require **PowerShell 7**. Make sure you understand what each command does before executing it.
+These configurations modify system settings. Make sure you understand what each command does before executing it.
 
 ## ℹ️ About  
 
 This repository contains my personal configurations for various tools and environments.  
-It currently includes my **PowerShell configuration** to enhance terminal usability.
+It currently includes my **PowerShell configuration**, inspired by [Craftzdog](https://github.com/craftzdog), to enhance terminal usability.
 
 ## 📂 Contents  
 
