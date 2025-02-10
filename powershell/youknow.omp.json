@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+    "palette": {
+      "os": "#ACB0BE",
+      "closer": "p:os",
+      "pink": "#F4B8E4",
+      "lavender": "#BABBF1",
+      "blue": "#8CAAEE"
+    },
+    "blocks": [
+      {
+        "alignment": "left",
+        "segments": [
+          {
+            "foreground": "p:blue",
+            "style": "plain",
+            "template": "{{ .UserName }}@{{ .HostName }}",
+            "type": "session"
+          },
+          {
+            "foreground": "p:pink",
+            "properties": {
+              "folder_icon": "",
+              "home_icon": "~",
+              "style": "agnoster_short"
+            },
+            "style": "plain",
+            "template": " {{ .Path }}",
+            "type": "path"
+          }
+        ],
+        "type": "prompt"
+      }
+    ],
+    "final_space": true,
+    "version": 3
+  }
