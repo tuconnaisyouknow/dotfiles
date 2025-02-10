@@ -43,6 +43,7 @@ Make sure you have the following installed:
 5️⃣ **Go to** `Defaults Profile -> Appearance` and set `JetBrainsMono Nerd Font` as the `Font face`.  
 6️⃣ **In** `Defaults Profile -> Appearance`, set `retrowave` as the `Color scheme`.  
 7️⃣ **In** `Defaults Profile -> Appearance`, set `Cursor shape` to `Filled Box`.  
+8️⃣ **In** `Defaults Profile -> Appearance`, add the path of city.gif in `Background image`.
 
 ### ⚡ Install Dependencies  
 
